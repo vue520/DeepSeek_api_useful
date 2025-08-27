@@ -13,7 +13,7 @@ CORS(app)
 
 # 初始化OpenAI客户端
 client = OpenAI(
-    api_key="sk-9a18e816e81442639c41d4297416630f",
+    api_key="your _ api",
     base_url="https://api.deepseek.com"
 )
 
