@@ -31,27 +31,10 @@ deepseek-chat-assistant/
 
 🚀 快速开始
 
-1. 环境要求
+2. 环境要求
 
 · Python 3.7+
-· pip (Python包管理器)
-
-2. 安装依赖
-
-```bash
-# 克隆项目
-git clone <your-repo-url>
-cd deepseek-chat-assistant
-
-# 创建虚拟环境（可选但推荐）
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# 或
-venv\Scripts\activate     # Windows
-
-# 安装依赖
-pip install -r requirements.txt
-```
+· pip (Python包管理器）
 
 3. 配置API密钥
 
